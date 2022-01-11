@@ -1,5 +1,5 @@
 # This project is retired, archived, and no longer supported. You are welcome to continue to use and fork the repository.
-
+[![Build Status](https://dev.azure.com/DonRozaAZ400/GIT/_apis/build/status/DonRozaAZ400.ContosoAir?branchName=master)](https://dev.azure.com/DonRozaAZ400/GIT/_build/latest?definitionId=5&branchName=master)
 
 # Microsoft.Github CI Demo
 
